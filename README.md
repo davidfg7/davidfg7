@@ -1,3 +1,4 @@
+<!-- 
 # Titulo principal
 ## Un subtitulo
 ### Hi there 👋
@@ -8,17 +9,17 @@
 - Item 4
 
 [Link a Google](https://google.com)
+-->
 <!--
 **davidfg7/davidfg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+#Hi there! I'm David Garcia 👋
+
+- 🔭 I’m currently working on International Business 🌎
+- 🌱 I’m currently learning Full Stack Developer, Wordpress and WooCommerce
+- 👯 I’m looking to collaborate on Website Developments
+- 💬 Ask me about ⚽
+- 📫 How to reach me: https://github.com/davidfg7
+
