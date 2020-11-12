@@ -15,11 +15,10 @@
 
 Here are some ideas to get you started:
 -->
-#Hi there! I'm David Garcia 👋
+# Hi there! I'm David Garcia 👋
 
 - 🔭 I’m currently working on International Business 🌎
 - 🌱 I’m currently learning Full Stack Developer, Wordpress and WooCommerce
-- 👯 I’m looking to collaborate on Website Developments
+- 👯 I’m looking to collaborate on Websites Development
 - 💬 Ask me about ⚽
 - 📫 How to reach me: https://github.com/davidfg7
-
