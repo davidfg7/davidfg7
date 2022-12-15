@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 -->
-# Hi there! I'm David Garcia 👋
+# Hi there! I'm David García 👋
 
 - 🔭 I’m currently working on International Business 🌎
 - 🌱 I’m currently learning Web Development, Wordpress and WooCommerce
