@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there! I'm David García 👋
 
 - 🔭 I’m currently working on International Business 🌎
-- 🌱 I’m currently learning Web Development, Wordpress and WooCommerce
+- 🌱 I’m currently learning Web Development, Wordpress, WooCommerce and Javascript
 - 👯 I’m looking to collaborate on Websites Development
 - 💬 Ask me about ⚽
 - 📫 How to reach me: https://github.com/davidfg7
